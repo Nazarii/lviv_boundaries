@@ -1,0 +1,438 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.0">
+   <Folder>
+      <name>OpenLayers export</name>
+      <description>Exported on Thu May 05 2016 13:37:57 GMT+0300 (EEST)</description>
+      <Placemark id="way.24696926">
+         <name>OpenLayers.Feature.Vector_13</name>
+         <description>No description available</description>
+         <LineString>
+            <coordinates>24.8640353,49.8058018 24.8646996,49.8058688 24.8653818,49.8059146 24.8654868,49.8059187 24.8668365,49.8059717 24.8670875,49.8059837 24.8695468,49.8061019 24.869763,49.8061123 24.8722905,49.8062331 24.8723881,49.8062689</coordinates>
+         </LineString>
+      </Placemark>
+      <Placemark id="way.30711482">
+         <name>OpenLayers.Feature.Vector_31</name>
+         <description>No description available</description>
+         <LineString>
+            <coordinates>24.0855086,49.862731 24.0890517,49.8634051 24.0881806,49.8692546 24.0822775,49.8694335 24.0799696,49.8690232 24.0798417,49.8685751 24.0778343,49.8683256 24.0776402,49.8686037 24.076769,49.8686036 24.0769641,49.8701204 24.0762746,49.8705197 24.075756,49.8709886 24.0769684,49.8721967 24.0776112,49.8735903 24.0769781,49.8738728 24.0770878,49.8739798</coordinates>
+         </LineString>
+      </Placemark>
+      <Placemark id="way.150913538">
+         <name>OpenLayers.Feature.Vector_42</name>
+         <description>No description available</description>
+         <Polygon>
+            <outerBoundaryIs>
+               <LinearRing>
+                  <coordinates>33.5473084,47.8667876 33.5508962,47.8545944 33.5559309,47.8550001 33.5569365,47.8550811 33.5551957,47.8622825 33.5527288,47.8619792 33.5506881,47.8672822 33.5473084,47.8667876</coordinates>
+               </LinearRing>
+            </outerBoundaryIs>
+         </Polygon>
+      </Placemark>
+      <Placemark id="way.157713291">
+         <name>OpenLayers.Feature.Vector_56</name>
+         <description>No description available</description>
+         <LineString>
+            <coordinates>23.9071837,49.8329733 23.9125826,49.8348091 23.9140702,49.8357371 23.9156384,49.8363495 23.9155426,49.8364776 23.9155165,49.8365187 23.9141957,49.8382079 23.9138622,49.838349 23.9118691,49.8407995 23.9069567,49.8431291 23.9066941,49.8479003 23.9081816,49.8496465</coordinates>
+         </LineString>
+      </Placemark>
+      <Placemark id="way.157713296">
+         <name>OpenLayers.Feature.Vector_79</name>
+         <description>No description available</description>
+         <LineString>
+            <coordinates>23.9238367,49.9005748 23.9279357,49.8981698 23.9278233,49.8975921 23.9296212,49.8965112 23.9303057,49.8961168 23.9318718,49.8934792 23.9333982,49.8934606 23.9379059,49.8933838 23.9433275,49.8930267 23.9438204,49.8927584 23.9440378,49.892032 23.9452714,49.8915352 23.9456497,49.8898898 23.9463261,49.8884852 23.9477518,49.8869461 23.9481854,49.8832494 23.949117,49.8838374 23.9513387,49.8865551 23.9513968,49.8865057 23.9523603,49.8857275 23.9538624,49.886499</coordinates>
+         </LineString>
+      </Placemark>
+      <Placemark id="way.157713307">
+         <name>OpenLayers.Feature.Vector_154</name>
+         <description>No description available</description>
+         <LineString>
+            <coordinates>24.0855086,49.862731 24.0840024,49.8625661 24.0835293,49.8608177 24.0825552,49.8593538 24.0849563,49.8580673 24.0870721,49.8570158 24.0863144,49.8548552 24.0860451,49.8544755 24.0875117,49.8542173 24.0874316,49.8538491 24.090464,49.8535997 24.0931855,49.8530403 24.0932861,49.8523623 24.0937827,49.8523554 24.095894,49.851975 24.0989107,49.8516339 24.0984515,49.8502638 24.0985652,49.8487213 24.0987103,49.8482168 24.0969392,49.8480368 24.0969302,49.8473022 24.0953464,49.845885 24.096095,49.8455852 24.096855,49.8451998 24.0976347,49.8449846 24.0981103,49.8443883 24.0993167,49.8445712 24.099448,49.8447421 24.1004693,49.8448072 24.1004316,49.8450581 24.1028537,49.8450852 24.1028491,49.8447157 24.1044213,49.8447735 24.104384,49.8423277 24.1067454,49.8426805 24.1115269,49.8437549 24.1128973,49.8439415 24.1135639,49.843938 24.1155152,49.8436605 24.1181739,49.8426993 24.1183367,49.8415943 24.1180057,49.8412397 24.1172513,49.8410025 24.1144512,49.840414 24.1141703,49.8407894 24.1133725,49.8406397 24.1134407,49.8401158 24.1119545,49.8398553 24.1116105,49.8395404 24.1119092,49.8384214 24.1124539,49.8384581 24.1127386,49.8346162 24.1128155,49.8331684 24.1130991,49.8330041 24.1135923,49.8330147 24.1144256,49.8330324 24.1147686,49.8329865 24.1157754,49.8324665 24.1159251,49.8320256 24.1172828,49.8317873 24.1174333,49.8312787 24.1203353,49.8311224 24.1209215,49.8312249 24.1213163,49.8312535 24.1215561,49.8319209 24.1219647,49.8324906 24.1225944,49.8323784 24.1251452,49.8317452 24.1260864,49.831461 24.126554,49.8311604 24.1267385,49.8292887 24.1274272,49.8286984 24.1282815,49.8274473</coordinates>
+         </LineString>
+      </Placemark>
+      <Placemark id="way.157713310">
+         <name>OpenLayers.Feature.Vector_207</name>
+         <description>No description available</description>
+         <LineString>
+            <coordinates>24.1277451,49.800263 24.1262054,49.7997875 24.1242619,49.7997102 24.1231615,49.7996368 24.1209387,49.7996698 24.1207155,49.7989476 24.1205068,49.7989719 24.1204111,49.7987006 24.1206971,49.7985059 24.1200784,49.7975573 24.1214817,49.7970384 24.1214246,49.7967895 24.1210688,49.7961783 24.1209251,49.7950112 24.1218651,49.7944557 24.1229965,49.7947666 24.1234458,49.7946265 24.1233379,49.7942517 24.1245039,49.794221 24.1253822,49.7944075 24.1262872,49.7938698 24.1268272,49.7935489 24.1274613,49.7932535 24.1273676,49.7930716 24.126794,49.792473 24.1261884,49.7919675 24.1271205,49.7920565 24.1288164,49.7915729 24.128801,49.7908817 24.1282558,49.7905098 24.1275262,49.7897975 24.1271416,49.789404 24.1271133,49.7892084 24.1271251,49.7891209 24.123454,49.7892406 24.1218013,49.7895739 24.1195387,49.7898368 24.1186682,49.7898336 24.1144207,49.7903063 24.1158534,49.7912682 24.1142392,49.7919613 24.1127209,49.7923689 24.111311,49.7932169 24.1104267,49.7934421 24.1094713,49.793626 24.1087386,49.7936382 24.1071718,49.7937671 24.1064808,49.7929967 24.1032749,49.7936543 24.1022083,49.7921326 24.1009347,49.791024</coordinates>
+         </LineString>
+      </Placemark>
+      <Placemark id="way.157716373">
+         <name>OpenLayers.Feature.Vector_315</name>
+         <description>No description available</description>
+         <LineString>
+            <coordinates>24.1282815,49.8274473 24.1285321,49.827089 24.1283362,49.8259518 24.1285892,49.8256358 24.1285158,49.8254726 24.128124,49.8253936 24.1280313,49.8253907 24.1257407,49.8253199 24.1258958,49.8242089 24.1274057,49.8241826 24.1273976,49.8240193 24.1269813,49.823972 24.1269895,49.8236982 24.1260998,49.8236139 24.1262141,49.8226345 24.1266549,49.8224028 24.1272099,49.8223449 24.1277404,49.8221816 24.1282954,49.8223396 24.1283117,49.8227082 24.1281403,49.8227925 24.1280097,49.8231716 24.1283199,49.8231716 24.1285158,49.8229557 24.1290037,49.8228502 24.1291768,49.8217778 24.1288305,49.8216736 24.1285882,49.8214651 24.128011,49.8212268 24.1280456,49.820914 24.128176,49.8199262 24.1285351,49.8195681 24.1288861,49.8192995 24.1289187,49.819031 24.1299226,49.8187782 24.1301441,49.8184262 24.1301898,49.8183147 24.1302083,49.8182411 24.1304042,49.8182621 24.1304802,49.8182287 24.1305393,49.8181644 24.1303552,49.817883 24.1302491,49.8166928 24.1301267,49.8165453 24.1299145,49.8164137 24.1295145,49.8162715 24.1285676,49.8161814 24.1286389,49.8153996 24.1286307,49.8149836 24.1287858,49.8149257 24.1279614,49.8147677 24.1263862,49.8148309 24.1259699,49.8148625 24.1259373,49.8146255 24.1264515,49.8136775 24.126933,49.8135564 24.1299611,49.8133668 24.1310466,49.8132562 24.1317322,49.8129612 24.1321893,49.8126926 24.1326871,49.8123924 24.1332666,49.8117815 24.1334136,49.8117393 24.1330871,49.8113759 24.1326871,49.8114549 24.1325076,49.8115392 24.1318383,49.8117235 24.1313731,49.8116972 24.1311935,49.8114286 24.129757,49.8113022 24.1297081,49.8112074 24.1273901,49.8110862 24.1267208,49.8110178 24.1265984,49.810175 24.1293245,49.8097747 24.1301407,49.8095641 24.130312,49.8089004 24.1287939,49.8084527 24.1278145,49.8082051 24.1266474,49.8082262 24.1256598,49.8083632 24.125366,49.8083632 24.1238397,49.8088635 24.1231623,49.8090005 24.122844,49.8087951 24.1212034,49.8094324 24.1208688,49.8097484 24.1207872,49.810233 24.1206321,49.8108703 24.1204607,49.8111336 24.1202322,49.811634 24.1198812,49.8121501 24.1190289,49.8125363 24.118474,49.8130817 24.1182534,49.8135224 24.1171633,49.8145465 24.1159796,49.8157267 24.1151404,49.8154604 24.1142778,49.8150486 24.1118303,49.8148381 24.1111914,49.8151335 24.1099489,49.8148993 24.109162,49.814435 24.1135881,49.8112421 24.1143986,49.8102172 24.1130569,49.8089939</coordinates>
+         </LineString>
+      </Placemark>
+      <Placemark id="way.158820641">
+         <name>OpenLayers.Feature.Vector_329</name>
+         <description>No description available</description>
+         <LineString>
+            <coordinates>24.0657556,49.8785314 24.0657643,49.8783375 24.0637342,49.8768748 24.0639344,49.8767142 24.0649122,49.8755391 24.0652768,49.8750013 24.0656938,49.8742248 24.0651782,49.8736421 24.0678679,49.8726521 24.0704981,49.8748686 24.071723,49.8746691 24.0770878,49.8739798</coordinates>
+         </LineString>
+      </Placemark>
+      <Placemark id="way.158820644">
+         <name>OpenLayers.Feature.Vector_337</name>
+         <description>No description available</description>
+         <LineString>
+            <coordinates>24.1130569,49.8089939 24.1224252,49.8033541 24.1266758,49.8022767 24.126414,49.8013185 24.1278984,49.800829 24.1277451,49.800263</coordinates>
+         </LineString>
+      </Placemark>
+      <Placemark id="way.158821537">
+         <name>OpenLayers.Feature.Vector_342</name>
+         <description>No description available</description>
+         <LineString>
+            <coordinates>23.9802598,49.8011553 23.9789511,49.8012768 23.9751923,49.801538</coordinates>
+         </LineString>
+      </Placemark>
+      <Placemark id="way.158985594">
+         <name>OpenLayers.Feature.Vector_370</name>
+         <description>No description available</description>
+         <LineString>
+            <coordinates>23.914393,49.8556554 23.9147485,49.8586369 23.908655,49.8590286 23.9088413,49.8609173 23.909059,49.8630029 23.9114069,49.8628651 23.9117511,49.8647903 23.913141,49.864621 23.9135967,49.8670211 23.9155456,49.8669008 23.9161109,49.8700273 23.9166689,49.8732447 23.9160692,49.8744703 23.9153832,49.8745325 23.9157705,49.8754121 23.9157496,49.8759875 23.9163912,49.8789338 23.9164627,49.8796113 23.9157935,49.8795702 23.9156208,49.8802272 23.9143712,49.8803549 23.913122,49.8805436 23.9083978,49.8811232 23.9084778,49.8826954 23.9051028,49.8834264 23.9101504,49.8870216</coordinates>
+         </LineString>
+      </Placemark>
+      <Placemark id="way.160034865">
+         <name>OpenLayers.Feature.Vector_378</name>
+         <description>No description available</description>
+         <LineString>
+            <coordinates>23.9751923,49.801538 23.9703009,49.8018664 23.9695687,49.8022005 23.9685714,49.8023308 23.9677888,49.802396 23.9654223,49.802515</coordinates>
+         </LineString>
+      </Placemark>
+      <Placemark id="way.160035916">
+         <name>OpenLayers.Feature.Vector_391</name>
+         <description>No description available</description>
+         <LineString>
+            <coordinates>23.9538624,49.886499 23.956912,49.885756 23.9601822,49.8841506 23.9642311,49.8834117 23.9667651,49.8830195 23.9713378,49.8847891 23.9715784,49.8852634 23.9729941,49.88779 23.9744806,49.8912194 23.9685403,49.8923038 23.9621005,49.8924882</coordinates>
+         </LineString>
+      </Placemark>
+      <Placemark id="way.160035917">
+         <name>OpenLayers.Feature.Vector_406</name>
+         <description>No description available</description>
+         <LineString>
+            <coordinates>23.9621005,49.8924882 23.960623,49.8956625 23.9612749,49.8970984 23.9654453,49.8961118 23.9663226,49.8966423 23.9641506,49.8974859 23.9633953,49.8978873 23.9607673,49.9001979 23.9604383,49.9007958 23.9631977,49.9009553 23.9635341,49.9023439 23.9642084,49.9028269 23.9664045,49.9036931</coordinates>
+         </LineString>
+      </Placemark>
+      <Placemark id="way.160040602">
+         <name>OpenLayers.Feature.Vector_431</name>
+         <description>No description available</description>
+         <LineString>
+            <coordinates>23.9630275,49.8047722 23.9612721,49.8058974 23.9607922,49.8064203 23.9599906,49.8070639 23.959391,49.8078256 23.9558712,49.8099207 23.9512246,49.8104271 23.949316,49.8106998 23.949337,49.8093224 23.9478048,49.8092958 23.9478513,49.8084202 23.93983,49.808891 23.9396376,49.8093162 23.9378756,49.8095219 23.9329856,49.8099862 23.9330565,49.8094869 23.930347,49.8103164 23.9294865,49.8096698 23.9289578,49.8099241 23.9283426,49.810104 23.9277754,49.8101661 23.9275144,49.81012 23.9258638,49.8100054</coordinates>
+         </LineString>
+      </Placemark>
+      <Placemark id="way.160040604">
+         <name>OpenLayers.Feature.Vector_436</name>
+         <description>No description available</description>
+         <LineString>
+            <coordinates>23.9654223,49.802515 23.9654534,49.802889 23.9650975,49.8030508</coordinates>
+         </LineString>
+      </Placemark>
+      <Placemark id="way.160040606">
+         <name>OpenLayers.Feature.Vector_442</name>
+         <description>No description available</description>
+         <LineString>
+            <coordinates>23.9650975,49.8030508 23.9646324,49.8033631 23.9640852,49.8046678 23.9630275,49.8047722</coordinates>
+         </LineString>
+      </Placemark>
+      <Placemark id="way.160040607">
+         <name>OpenLayers.Feature.Vector_463</name>
+         <description>No description available</description>
+         <LineString>
+            <coordinates>23.9258638,49.8100054 23.9258205,49.8105714 23.9245935,49.811081 23.924352,49.8111813 23.9232372,49.8121419 23.9229246,49.8126814 23.9221966,49.8125 23.9211864,49.8141925 23.9205854,49.8140208 23.9197183,49.8150698 23.9183487,49.8154513 23.9184374,49.8157247 23.9184051,49.8157958 23.9176295,49.8175048 23.917246,49.81817 23.9158263,49.8206326 23.9157376,49.820618 23.9134228,49.8202 23.9130436,49.8208945</coordinates>
+         </LineString>
+      </Placemark>
+      <Placemark id="way.160045428">
+         <name>OpenLayers.Feature.Vector_467</name>
+         <description>No description available</description>
+         <LineString>
+            <coordinates>24.031171,49.7678305 24.0143032,49.7689999</coordinates>
+         </LineString>
+      </Placemark>
+      <Placemark id="way.160052026">
+         <name>OpenLayers.Feature.Vector_496</name>
+         <description>No description available</description>
+         <LineString>
+            <coordinates>24.0943779,49.7918093 24.0937683,49.7922782 24.0929406,49.7937743 24.0927057,49.7939823 24.0915928,49.7948233 24.0911857,49.7950452 24.0907963,49.7962352 24.0899929,49.7962019 24.0895273,49.7959464 24.0863262,49.7984284 24.0855218,49.7977755 24.0845313,49.7976401 24.0853212,49.7969987 24.0844438,49.7965954 24.0828257,49.7963296 24.0834009,49.7939441 24.0830097,49.7929232 24.0831966,49.7906142 24.0831825,49.7901987 24.0829727,49.7896471 24.0824408,49.788917 24.0825485,49.7875471 24.0787861,49.7868382 24.079661,49.7832522 24.0788618,49.7831325 24.0777367,49.7828508 24.0767692,49.7823709</coordinates>
+         </LineString>
+      </Placemark>
+      <Placemark id="way.160052029">
+         <name>OpenLayers.Feature.Vector_508</name>
+         <description>No description available</description>
+         <LineString>
+            <coordinates>24.0694668,49.7808457 24.0666936,49.7807178 24.063898,49.780635 24.0617193,49.7801596 24.0585138,49.7805745 24.0573545,49.7806654 24.0566122,49.7806078 24.0562186,49.7807796 24.0544669,49.7808341 24.0535414,49.7807357</coordinates>
+         </LineString>
+      </Placemark>
+      <Placemark id="way.160052030">
+         <name>OpenLayers.Feature.Vector_517</name>
+         <description>No description available</description>
+         <LineString>
+            <coordinates>24.0767692,49.7823709 24.0764252,49.7825924 24.0756632,49.7821395 24.074047,49.7815663 24.0726006,49.7812496 24.0711747,49.7810366 24.0694668,49.7808457</coordinates>
+         </LineString>
+      </Placemark>
+      <Placemark id="way.160146953">
+         <name>OpenLayers.Feature.Vector_556</name>
+         <description>No description available</description>
+         <LineString>
+            <coordinates>23.9664045,49.9036931 23.9688659,49.9011263 23.9711789,49.9007211 23.9859326,49.9037122 23.9890664,49.9033928 23.9907933,49.9030046 23.9919531,49.9023202 23.9938652,49.9017786 23.9941938,49.9016855 23.9942811,49.9025997 23.9984845,49.9024965 24.0012647,49.9027 24.0070887,49.9023077 24.0050208,49.8982385 24.0030672,49.8963918 24.0016427,49.8952388 24.0034641,49.8952749 24.0057522,49.8955611 24.0082289,49.8955706 24.009523,49.8955064 24.0117377,49.8950114 24.0131251,49.8945384 24.0143301,49.8945259 24.0142948,49.8948281 24.0182128,49.8954642 24.0195024,49.8957732 24.0204582,49.8961118 24.0217213,49.8959127 24.0230532,49.8958535 24.0241085,49.8965161 24.0285863,49.8965974 24.0286388,49.8959201 24.0299272,49.8959867 24.0308752,49.8950491 24.032417,49.8943408 24.0350692,49.8925005 24.0370187,49.8927817</coordinates>
+         </LineString>
+      </Placemark>
+      <Placemark id="way.160153162">
+         <name>OpenLayers.Feature.Vector_576</name>
+         <description>No description available</description>
+         <LineString>
+            <coordinates>24.0370187,49.8927817 24.0375813,49.8928069 24.0380777,49.892674 24.0385439,49.8925219 24.0388109,49.8923031 24.0388708,49.8921311 24.0392443,49.8920617 24.0398648,49.8919911 24.0401655,49.8921009 24.0406162,49.892239 24.0410498,49.8921887 24.0415866,49.8919927 24.0423692,49.8916892 24.0428098,49.8915953 24.0432431,49.8915207 24.043736,49.891412 24.0449057,49.8909181 24.0453548,49.8907661</coordinates>
+         </LineString>
+      </Placemark>
+      <Placemark id="way.186493076">
+         <name>OpenLayers.Feature.Vector_585</name>
+         <description>No description available</description>
+         <LineString>
+            <coordinates>24.0143032,49.7689999 24.0142563,49.7706627 24.014182,49.7734446 24.0139694,49.7815109 24.0139879,49.7824373 24.0141043,49.783719 24.0139429,49.7837362</coordinates>
+         </LineString>
+      </Placemark>
+      <Placemark id="way.186828194">
+         <name>OpenLayers.Feature.Vector_589</name>
+         <description>No description available</description>
+         <LineString>
+            <coordinates>23.9803178,49.8012919 23.9802598,49.8011553</coordinates>
+         </LineString>
+      </Placemark>
+      <Placemark id="way.187477899">
+         <name>OpenLayers.Feature.Vector_595</name>
+         <description>No description available</description>
+         <LineString>
+            <coordinates>24.1009347,49.791024 24.0994291,49.7915748 24.0969463,49.7916027 24.0943779,49.7918093</coordinates>
+         </LineString>
+      </Placemark>
+      <Placemark id="way.189050333">
+         <name>OpenLayers.Feature.Vector_608</name>
+         <description>No description available</description>
+         <LineString>
+            <coordinates>23.9141702,49.8883655 23.9175469,49.8907439 23.9190235,49.8918461 23.9199574,49.8935554 23.9214013,49.8959708 23.9220478,49.8969461 23.9218927,49.8969092 23.922247,49.897372 23.9227222,49.8982915 23.9235838,49.8999591 23.9238367,49.9005748</coordinates>
+         </LineString>
+      </Placemark>
+      <Placemark id="way.189051646">
+         <name>OpenLayers.Feature.Vector_613</name>
+         <description>No description available</description>
+         <LineString>
+            <coordinates>23.9101504,49.8870216 23.9110524,49.8872828 23.9141702,49.8883655</coordinates>
+         </LineString>
+      </Placemark>
+      <Placemark id="way.189057422">
+         <name>OpenLayers.Feature.Vector_623</name>
+         <description>No description available</description>
+         <LineString>
+            <coordinates>23.914393,49.8556554 23.9138329,49.8555685 23.9124942,49.854873 23.9113159,49.8539674 23.9092774,49.8534392 23.9107308,49.8518019 23.9082336,49.8496905 23.9081816,49.8496465</coordinates>
+         </LineString>
+      </Placemark>
+      <Placemark id="way.209431444">
+         <name>OpenLayers.Feature.Vector_631</name>
+         <description>No description available</description>
+         <LineString>
+            <coordinates>23.9130436,49.8208945 23.9152061,49.8213042 23.9146247,49.8230258 23.9114427,49.8270551 23.9090181,49.8303047 23.9071837,49.8329733</coordinates>
+         </LineString>
+      </Placemark>
+      <Placemark id="way.229054582">
+         <name>OpenLayers.Feature.Vector_636</name>
+         <description>No description available</description>
+         <LineString>
+            <coordinates>25.3719012,49.6191743 25.3717335,49.6192188 25.3670235,49.6203987</coordinates>
+         </LineString>
+      </Placemark>
+      <Placemark id="way.229435793">
+         <name>OpenLayers.Feature.Vector_642</name>
+         <description>No description available</description>
+         <LineString>
+            <coordinates>25.1237681,49.6783737 25.1234486,49.6784407 25.1220154,49.6787687 25.1210264,49.6789646</coordinates>
+         </LineString>
+      </Placemark>
+      <Placemark id="way.292717063">
+         <name>OpenLayers.Feature.Vector_668</name>
+         <description>No description available</description>
+         <LineString>
+            <coordinates>24.0535414,49.7807357 24.0530767,49.7806863 24.0515997,49.7804792 24.0513024,49.7806203 24.0511258,49.7807319 24.0513917,49.7809277 24.0516305,49.7811856 24.0519655,49.7817689 24.0518952,49.7829181 24.0521236,49.7833346 24.0516486,49.7858791 24.0493605,49.7857808 24.049232,49.7865416 24.0491053,49.7872393 24.0482184,49.7872441 24.0480774,49.7875526 24.0481349,49.7880445 24.0478547,49.7880872 24.0477534,49.7882159 24.0462014,49.7880621 24.0445444,49.7874625 24.0431505,49.786585 24.0415736,49.7857177 24.041355,49.7857227</coordinates>
+         </LineString>
+      </Placemark>
+      <Placemark id="way.292717065">
+         <name>OpenLayers.Feature.Vector_676</name>
+         <description>No description available</description>
+         <LineString>
+            <coordinates>24.041355,49.7857227 24.039356,49.786619 24.0347327,49.7874841 24.0321101,49.7816832 24.0314586,49.7796205 24.031171,49.7678305</coordinates>
+         </LineString>
+      </Placemark>
+      <Placemark id="way.294383262">
+         <name>Львівське шосе</name>
+         <description>No description available</description>
+         <LineString>
+            <coordinates>25.5026005,49.5711361 25.4999574,49.5720255</coordinates>
+         </LineString>
+      </Placemark>
+      <Placemark id="way.294383263">
+         <name>Львівське шосе</name>
+         <description>No description available</description>
+         <LineString>
+            <coordinates>25.4999574,49.5720255 25.4961968,49.5732304</coordinates>
+         </LineString>
+      </Placemark>
+      <Placemark id="way.294409651">
+         <name>Львівське шосе</name>
+         <description>No description available</description>
+         <LineString>
+            <coordinates>25.4961968,49.5732304 25.4952614,49.5735279 25.4905889,49.5750558</coordinates>
+         </LineString>
+      </Placemark>
+      <Placemark id="way.294804415">
+         <name>OpenLayers.Feature.Vector_696</name>
+         <description>No description available</description>
+         <LineString>
+            <coordinates>25.3775343,49.6173405 25.3768492,49.6175682 25.374374,49.618381 25.3724604,49.6189949 25.3719012,49.6191743</coordinates>
+         </LineString>
+      </Placemark>
+      <Placemark id="way.295342604">
+         <name>OpenLayers.Feature.Vector_700</name>
+         <description>No description available</description>
+         <LineString>
+            <coordinates>25.1266523,49.6777687 25.1237681,49.6783737</coordinates>
+         </LineString>
+      </Placemark>
+      <Placemark id="way.295616942">
+         <name>OpenLayers.Feature.Vector_708</name>
+         <description>No description available</description>
+         <LineString>
+            <coordinates>24.8640353,49.8058018 24.8631405,49.8057648 24.8618599,49.8057118 24.8612892,49.805679 24.8586557,49.8055277 24.8577348,49.8054748</coordinates>
+         </LineString>
+      </Placemark>
+      <Placemark id="way.295634850">
+         <name>OpenLayers.Feature.Vector_712</name>
+         <description>No description available</description>
+         <LineString>
+            <coordinates>24.9219211,49.7878169 24.9216721,49.7879067</coordinates>
+         </LineString>
+      </Placemark>
+      <Placemark id="way.295634851">
+         <name>OpenLayers.Feature.Vector_716</name>
+         <description>No description available</description>
+         <LineString>
+            <coordinates>24.9216721,49.7879067 24.9212717,49.788046</coordinates>
+         </LineString>
+      </Placemark>
+      <Placemark id="way.295634853">
+         <name>OpenLayers.Feature.Vector_729</name>
+         <description>No description available</description>
+         <LineString>
+            <coordinates>24.9175104,49.7888115 24.9172607,49.7888573 24.9166969,49.7889545 24.916573,49.7889758 24.9152631,49.7892016 24.9113165,49.7899021 24.9112023,49.7899224 24.9079461,49.7905116 24.8991202,49.7927174 24.8969295,49.7932542 24.8940915,49.7940695</coordinates>
+         </LineString>
+      </Placemark>
+      <Placemark id="way.295803239">
+         <name>OpenLayers.Feature.Vector_742</name>
+         <description>No description available</description>
+         <LineString>
+            <coordinates>24.8940915,49.7940695 24.8926119,49.7944335 24.8921721,49.7945475 24.8885653,49.79589 24.8880951,49.796065 24.8860484,49.7968537 24.8848467,49.7973167 24.8832967,49.797914 24.8789823,49.7996479 24.8785788,49.7998368 24.8784025,49.7999193</coordinates>
+         </LineString>
+      </Placemark>
+      <Placemark id="way.295833453">
+         <name>OpenLayers.Feature.Vector_754</name>
+         <description>No description available</description>
+         <LineString>
+            <coordinates>24.8673137,49.8052269 24.8669551,49.8053321 24.8666075,49.8054229 24.8665451,49.8054373 24.8660641,49.8055485 24.8657994,49.8055897 24.8656245,49.805617 24.8654747,49.8056403 24.8647935,49.8057451 24.8640353,49.8058018</coordinates>
+         </LineString>
+      </Placemark>
+      <Placemark id="way.315858749">
+         <name>Львівська вулиця</name>
+         <description>No description available</description>
+         <LineString>
+            <coordinates>24.8723881,49.8062689 24.8739122,49.8063418 24.8804758,49.8066555 24.8808082,49.8066759 24.8818649,49.8067606 24.8827467,49.8068615 24.8851951,49.8073662 24.8859211,49.8075035 24.8903262,49.8083537 24.8907117,49.8084301 24.8980938,49.8098648</coordinates>
+         </LineString>
+      </Placemark>
+      <Placemark id="way.323071925">
+         <name>OpenLayers.Feature.Vector_783</name>
+         <description>No description available</description>
+         <LineString>
+            <coordinates>24.0139429,49.7837362 24.0127095,49.7838965 24.0120846,49.7839373 24.0125359,49.7855153 24.0126839,49.7865616 24.012426,49.7878334 24.0120504,49.7923175 24.0122972,49.7945914 24.0115247,49.7945961 24.0115462,49.7967292 23.9824944,49.7976474 23.9823272,49.7995553 23.9800773,49.7999462 23.9803178,49.8012919</coordinates>
+         </LineString>
+      </Placemark>
+      <Placemark id="way.329641266">
+         <name>OpenLayers.Feature.Vector_829</name>
+         <description>No description available</description>
+         <LineString>
+            <coordinates>24.0453548,49.8907661 24.0459348,49.8905699 24.0464342,49.8903886 24.0469866,49.8902457 24.0473725,49.8901206 24.0477116,49.8899884 24.0479132,49.8899391 24.0482831,49.8898866 24.0488547,49.8897905 24.0495836,49.8896326 24.050129,49.8895381 24.0508269,49.8893634 24.0512072,49.889323 24.0515478,49.889207 24.0517822,49.8890549 24.0521909,49.8887354 24.0529114,49.8882814 24.0533185,49.8881674 24.0540099,49.8879946 24.0546804,49.8878528 24.0554375,49.8876945 24.0563122,49.8874412 24.0566601,49.8872933 24.0570079,49.8871454 24.0571632,49.8869512 24.0573582,49.8868708 24.0575816,49.88685 24.0578384,49.8868448 24.0581111,49.8868557 24.0582581,49.8867327 24.0584111,49.8864074 24.0586725,49.886328 24.0589293,49.8862436 24.0593842,49.8860941 24.0594459,49.8839804 24.0614633,49.8804597 24.062728,49.8798007 24.0634184,49.880605 24.0639721,49.8805974 24.0647513,49.8804365 24.0640792,49.879516 24.0639224,49.8789026 24.0655862,49.8791073 24.0657556,49.8785314</coordinates>
+         </LineString>
+      </Placemark>
+      <Placemark id="node.26150791">
+         <name>Львів</name>
+         <description>No description available</description>
+         <Point>
+            <coordinates>24.0315921,49.8419505</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark id="node.337668493">
+         <name>Веселе</name>
+         <description>No description available</description>
+         <Point>
+            <coordinates>33.58383,47.84031</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark id="node.2980066988">
+         <name>OpenLayers.Feature.Vector_835</name>
+         <description>No description available</description>
+         <Point>
+            <coordinates>25.5022167,49.5713765</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark id="node.2980090815">
+         <name>OpenLayers.Feature.Vector_837</name>
+         <description>No description available</description>
+         <Point>
+            <coordinates>25.4962458,49.5733434</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark id="node.2984270287">
+         <name>OpenLayers.Feature.Vector_839</name>
+         <description>No description available</description>
+         <Point>
+            <coordinates>25.3722547,49.6191432</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark id="node.2990564317">
+         <name>OpenLayers.Feature.Vector_841</name>
+         <description>No description available</description>
+         <Point>
+            <coordinates>25.1307486,49.6770541</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark id="node.2990596963">
+         <name>OpenLayers.Feature.Vector_843</name>
+         <description>No description available</description>
+         <Point>
+            <coordinates>25.1246753,49.6785055</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark id="node.2990597009">
+         <name>OpenLayers.Feature.Vector_845</name>
+         <description>No description available</description>
+         <Point>
+            <coordinates>25.1218938,49.678912</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark id="node.2993730394">
+         <name>OpenLayers.Feature.Vector_847</name>
+         <description>No description available</description>
+         <Point>
+            <coordinates>24.9226506,49.7876849</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark id="node.2995642345">
+         <name>OpenLayers.Feature.Vector_849</name>
+         <description>No description available</description>
+         <Point>
+            <coordinates>24.8954785,49.7938657</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark id="node.2995710246">
+         <name>OpenLayers.Feature.Vector_851</name>
+         <description>No description available</description>
+         <Point>
+            <coordinates>24.868317,49.8049757</coordinates>
+         </Point>
+      </Placemark>
+   </Folder>
+</kml>
